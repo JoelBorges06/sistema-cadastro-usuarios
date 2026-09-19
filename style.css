@@ -174,3 +174,7 @@ button:active {
   stroke-linecap: round;
   stroke-linejoin: round;
 }
+#mensagemSucesso {
+    text-align: center;
+    margin-top: 20px;
+}
